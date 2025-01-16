@@ -26,10 +26,10 @@
 ### Українські-Українські:
 - Словник античної мітології. Упорядники: Козовик І.Я., Пономарів О.Д. (Ukr-Ukr)
 - Український Фразеологічний Словник
-- - Український словник іншомовних слів
+- Український словник іншомовних слів
 - СУМ-11 (Uk-Uk)
 
-Наявні формати словників на поточний час:
+Наявні формати словників станом на зараз:
 - [ABBYY Lingvo DSL](https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/ABBYY.Lingvo.DSL.Ukr.zip)
 - [StarDict](https://github.com/bakustarver/ukrdictionarieslistopensource/releases/download/0.1/Stardict.Ukr.zip)
 
